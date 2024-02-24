@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Stephen![](https://via.placeholder.com/15/008000/000000?text=+) 
+# Hi there 👋, I'm [Stephen](https://github.com/Stephen-Data-Engineer-Public/Stephen-Data-Engineer-Public)![](https://via.placeholder.com/15/008000/000000?text=+) 
 ## Academic experience:
 - **Masters of Science :** Statistics
 - **Bachelor of Science :** Computer Science
