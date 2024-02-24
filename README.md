@@ -2,8 +2,8 @@
 ## Academic experience:
 - **Masters of Science :** Statistics
 - **Bachelor of Science :** Computer Science
-
-![Hello](https://github.com/Stephen-Data-Engineer-Public/BASIC-PYTHON-PROJECT/blob/main/Blank%20diagram%20(22).png?raw=true)
+## Technical Skills: 
+![Hello](https://github.com/Stephen-Data-Engineer-Public/Content/blob/main/Blank%20diagram%20(24).png?raw=true)
 <!--
 **Stephen-Data-Engineer-Public/Stephen-Data-Engineer-Public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
