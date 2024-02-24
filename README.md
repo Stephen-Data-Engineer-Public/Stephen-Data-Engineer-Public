@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Stephen
-![Hello](https://static.wixstatic.com/media/nsplsh_0ddc1c524c0a4b3085537e7a80a6b21e~mv2.jpg/v1/crop/x_988,y_0,w_3949,h_3949/fill/w_151,h_151,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image%20by%20%E5%A4%9C%20%E5%92%94%E7%BD%97.jpg) ![](https://static.wixstatic.com/media/nsplsh_749964e01bdd457889132f2bd9a0b005~mv2.jpg/v1/crop/x_648,y_0,w_3888,h_3888/fill/w_151,h_151,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image%20by%20Gabriel%20Heinzer.jpg)
+![Hello](https://github.com/Stephen-Data-Engineer-Public/BASIC-PYTHON-PROJECT/blob/main/Blank%20diagram%20(16).png?raw=true)
 <!--
 **Stephen-Data-Engineer-Public/Stephen-Data-Engineer-Public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
