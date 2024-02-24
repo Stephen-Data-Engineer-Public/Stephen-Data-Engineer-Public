@@ -1,4 +1,4 @@
-## Hi there 👋, I'm ![Stephen](https://via.placeholder.com/15/f03c15/000000?text=+) 
+## Hi there 👋, I'm ![Stephen](https://via.placeholder.com/15/f03c15/000000?text=stephen) 
 
 
 ![Hello](https://github.com/Stephen-Data-Engineer-Public/BASIC-PYTHON-PROJECT/blob/main/Blank%20diagram%20(18).png?raw=true)
