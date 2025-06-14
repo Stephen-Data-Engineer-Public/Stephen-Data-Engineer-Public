@@ -3,7 +3,7 @@
 - **Masters of Science :** Statistics
 - **Bachelor of Science :** Computer Science
 ## Technical Skills
-- **Cloud Platform:** Azure
+- **Cloud Platform:** Azure, AWS
 - **Unified Analytics Platform:** Databricks
 - **Programming Languages:** Python, SQL, Scala
 - **Orchestration & ETL Tools:** Apache Airflow, Azure Data Factory(ADF), SSIS
