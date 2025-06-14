@@ -1,13 +1,14 @@
 # Hi there 👋, I'm [Stephen](https://github.com/Stephen-Data-Engineer-Public/Stephen-Data-Engineer-Public)![](https://via.placeholder.com/15/008000/000000?text=+) 
+- 🔭 I’m currently working on building an [Open Source Data Engineering Design Concept] (https://github.com/RESGAD-TECH-UK)
 ## Academic experience:
 - **Masters of Science :** Statistics
 - **Bachelor of Science :** Computer Science
 ## Technical Skills
-- **Cloud Platform:** Azure
+- **Cloud Platform:** Azure, AWS
 - **Unified Analytics Platform:** Databricks
 - **Programming Languages:** Python, SQL, Scala
 - **Orchestration & ETL Tools:** Apache Airflow, Azure Data Factory(ADF), SSIS
-- **Data Storage:** Azure Data Lake, Azure Blob Storage, Delta Lake
+- **Data Storage:** Azure Data Lake, Delta Lake
 - **Data Warehousing:** Azure Synapse Analytics, Snowflake, SQL Server
 - **Big Data Technologies:** Apache Spark, Kafka
 - **Version Control:** Git, GitHub
