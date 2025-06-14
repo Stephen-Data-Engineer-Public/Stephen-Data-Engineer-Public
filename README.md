@@ -3,18 +3,23 @@
 ## Academic experience:
 - **Masters of Science :** Statistics
 - **Bachelor of Science :** Computer Science
-## Technical Skills
-- **Cloud Platform:** Azure, AWS
-- **Unified Analytics Platform:** Databricks
-- **Programming Languages:** Python, SQL, Scala
-- **Orchestration & ETL Tools:** Apache Airflow, Azure Data Factory(ADF), SSIS
-- **Data Storage:** Azure Data Lake, Delta Lake
-- **Data Warehousing:** Azure Synapse Analytics, Snowflake, SQL Server
-- **Big Data Technologies:** Apache Spark, Kafka
-- **Version Control:** Git, GitHub
-- **CI/CD:** Azure DevOps, GitHub Actions
-- **Monitoring & Logging:** Azure Monitor, Log Analytics
-- **Visualization & BI:** Power BI, SSRS
+## 💼 Technical Skills
+
+| Category                  | Tools & Technologies                                              |
+|---------------------------|--------------------------------------------------------------------|
+| **Cloud Platform**        | Azure, AWS                                                         |
+| **Unified Platform**      | Databricks                                                        |
+| **Programming Languages** | Python, SQL, Scala                                                |
+| **Data Integration & ETL**| Azure Data Factory, SSIS                                          |
+| **Orchestration**         | Apache Airflow, Azure Data Factory Pipelines, Prefect             |
+| **Data Storage**          | Azure Data Lake, Delta Lake, S3                                   |
+| **Data Warehousing**      | Azure Synapse Analytics, Snowflake, SQL Server                    |
+| **Big Data Technologies** | Apache Spark, Kafka                                               |
+| **Version Control**       | Git, GitHub                                                       |
+| **CI/CD**                 | Azure DevOps, GitHub Actions                                      |
+| **Monitoring & Logging**  | Azure Monitor, Log Analytics                                      |
+| **Visualization & BI**    | Power BI, SSRS                                                    |
+
 
 <!--
 **Stephen-Data-Engineer-Public/Stephen-Data-Engineer-Public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
