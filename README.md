@@ -1,5 +1,5 @@
 # Hi there 👋, I'm [Stephen](https://github.com/Stephen-Data-Engineer-Public/Stephen-Data-Engineer-Public)![](https://via.placeholder.com/15/008000/000000?text=+) 
-- 🔭 I’m currently working on building an [Open Source Data Engineering Design Concept] (https://github.com/RESGAD-TECH-UK)
+- 🔭 I’m currently working on building an [Open Source Data Engineering Design Concept](https://github.com/RESGAD-TECH-UK)
 ## Academic experience:
 - **Masters of Science :** Statistics
 - **Bachelor of Science :** Computer Science
