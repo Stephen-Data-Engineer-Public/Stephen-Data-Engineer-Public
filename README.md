@@ -11,7 +11,7 @@
 | **Unified Platform**      | Databricks                                                        |
 | **Programming Languages** | Python, SQL, Scala                                                |
 | **Data Integration & ETL**| Azure Data Factory, SSIS                                          |
-| **Orchestration**         | Apache Airflow, Azure Data Factory Pipelines, Prefect             |
+| **Orchestration**         | Apache Airflow, Azure Data Factory Pipelines                      |
 | **Data Storage**          | Azure Data Lake, Delta Lake, S3                                   |
 | **Data Warehousing**      | Azure Synapse Analytics, Snowflake, SQL Server                    |
 | **Big Data Technologies** | Apache Spark, Kafka                                               |
